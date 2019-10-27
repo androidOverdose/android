@@ -1,30 +1,23 @@
 body {
-  background-color: blue;
+  background-color: red;
   text-align: center
 }
 
 h1 {
-  color: white;
+  color: rgb(134,565,675);
   font-family: sans-serif;
 }
 
 h2 {
   font-family: sans-serif;
-  color: white;
+  color: steelblue;
 }
-p1 {
-  font-family: sans-serif;
-  color: white;
-}
-p3 {
-  font-family: sans-serif;
-  color: white;
-}
+
 img {
   float: right; 
   width: 300px;
   margin: 400px;
-  border-color: blue;
+  border-color: green;
   border-width: 40px;
   border-style: ;
   border-radius: 17px;
