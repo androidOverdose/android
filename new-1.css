@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: dark blue;
   text-align: center
 }
 
@@ -24,7 +24,7 @@ img {
   float: right; 
   width: 300px;
   margin: 400px;
-  border-color: black;
+  border-color: dark blue;
   border-width: 40px;
   border-style: ;
   border-radius: 17px;
