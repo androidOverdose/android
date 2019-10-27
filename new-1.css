@@ -1,0 +1,30 @@
+body {
+  background-color: red;
+  text-align: center
+}
+
+h1 {
+  color: rgb(134,565,675);
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: steelblue;
+}
+
+img {
+  float: right; 
+  width: 300px;
+  margin: 400px;
+  border-color: green;
+  border-width: 40px;
+  border-style: ;
+  border-radius: 17px;
+}
+
+p {
+  text-align: left;
+  font-family: serif;
+  font-size: 14px;
+}
