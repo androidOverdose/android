@@ -1,5 +1,9 @@
-{body {background-color: #0aff0a}
-  text-align: center
+body {
+font-family: 'Lato', arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+font-weight: 300;
+background-color: #2e2e2e !important;
 }
 
 h1 {
