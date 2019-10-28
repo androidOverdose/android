@@ -1,29 +1,21 @@
 body {
-background-color: Red;
+  background-color: black;
+  text-align: center
+}
 
 h1 {
-  color: rgb(255,255,255);
+  color: ghostwhite;
   font-family: sans-serif;
 }
 
-h2 {
+p1 {color: ghostwhite;
   font-family: sans-serif;
-  color: rgb(255,255,255);
+  
 }
-
-img {
-  float: right; 
-  width: 300px;
-  margin: 400px;
-  border-color: green;
-  border-width: 40px;
-  border-style: ;
-  border-radius: 17px;
-}
+p2 {color: ghostwhite;
+font-family: sans-serif;
 
 
-p {
-  text-align: left;
-  font-family: serif;
-  font-size: 14px;
+
+  
 }
