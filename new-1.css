@@ -1,16 +1,16 @@
 body {
-  background-color: red;
+  background-color: black;
   text-align: center
 }
 
 h1 {
-  color: rgb(134,565,675);
+  color: rgb(255,255,255);
   font-family: sans-serif;
 }
 
 h2 {
   font-family: sans-serif;
-  color: steelblue;
+  color: rgb(255,255,255);
 }
 
 img {
